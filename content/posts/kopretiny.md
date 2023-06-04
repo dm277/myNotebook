@@ -7,9 +7,6 @@ featured_image: '/images/sedm4.jpg'
 
 Pěknej den, neděle, celá rodina doma.
 
-Včera byl sběr sedmikrásek a pak docela dost práce to všechno otrhat.
+Včera byl sběr sedmikrásek a pak docela dost práce to všechno otrhat. Naštěstí se všichni sešli.
 
 ![Image](/images/sedm1.jpg)
-![Image](/images/sedm2.jpg)
-![Image](/images/sedm3.jpg)
-![Image](/images/sedm4.jpg)
