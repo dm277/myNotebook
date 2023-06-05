@@ -2,3 +2,5 @@ baseURL = 'http://example.org/'
 languageCode = 'cs-cz'
 title = 'Poznámkový notes'
 theme = 'ananke'
+canonifyURLs = true
+
