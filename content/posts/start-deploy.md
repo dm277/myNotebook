@@ -5,6 +5,8 @@ draft: false
 featured_image: '/images/settings.jpg'
 ---
 
+`            --buildDrafts \`
+
 In this post, we will be deploying the site that we created using a free account at Netlify. The site will be re-built and re-deployed whenever we push a new commit to our site’s Git repository. We will also look at how to set up our site using our own domain and create an SSL certificate.
 
 A question that comes up a lot when I talk about deploying static sites like Hugo with Netlify is why not just use GitHub Pages?
