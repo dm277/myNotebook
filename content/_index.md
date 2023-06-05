@@ -1,5 +1,5 @@
 ---
-title: "V létě na zahradě"
+title: "Full Local Site"
 
 description: ":-)"
 featured_image: '/images/stul.jpg'
