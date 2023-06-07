@@ -3,21 +3,4 @@ languageCode = 'cs-cz'
 title = 'Červený notes'
 theme = 'ananke'
 canonifyURLs = true
-[[params]]
-    rss = true
-[[params.ananke_socials]]
-    name = "linkedin"
-    url = "https://www.linkedin.com/in/david-marek-b5a70326b" 
-    label = "My Linkedin"
-[[menu.main]]
-    name = "home"
-    weight = 1
-    url = "/"
-[[menu.main]]
-    name = "posts"
-    weight = 2
-    url = "/posts/"
-[[menu.main]]
-    name = "about"
-    weight = 3
-    url = "/about/"
+
