@@ -2,6 +2,7 @@
 title: "Ucpaná myčka"
 date: 2023-06-05T08:58:27+02:00
 draft: true
+tags: ["doma"]
 ---
 
 # Čištení myčky

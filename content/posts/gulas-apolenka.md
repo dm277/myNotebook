@@ -2,6 +2,7 @@
 title: "Recept na guláš"
 date: 2023-06-05T09:06:39+02:00
 draft: true
+tags: ["recepty", "doma"]
 ---
 
 # Guláš pro Apolenku

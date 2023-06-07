@@ -2,6 +2,7 @@
 title: "Gyros"
 date: 2023-06-05T16:01:25+02:00
 draft: true
+tags: ["recepty", "doma"]
 ---
 
 [cuketka link](https://youtu.be/H2GX-UOgOtQ)

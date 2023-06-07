@@ -3,6 +3,7 @@ title: "Deploy Site online - how to?"
 date: 2023-06-04T07:31:51+02:00
 draft: false
 featured_image: '/images/settings.jpg'
+tags: ["pocitace", "hugo"]
 ---
 
 `            --buildDrafts \`
