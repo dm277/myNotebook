@@ -3,4 +3,16 @@ languageCode = 'cs-cz'
 title = 'Červený notes'
 theme = 'ananke'
 canonifyURLs = true
+DefaultContentLanguage = 'cs'
+SectionPagesMenu = 'main'
+Paginate = 9
 
+[languages]
+  [languages.cs]
+    title = 'Červený notes'
+    weight = 1
+    contentDir = "content/cs"
+  [languages.en]
+    title = "red book"
+    weight = 2
+    contentDir = "content/en"
