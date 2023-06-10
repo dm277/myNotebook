@@ -1,15 +1,15 @@
-baseURL = 'http://example.org/'
+baseURL = '/'
 languageCode = 'cs-cz'
-title = 'Červený notes'
+title = 'Červený notes - last'
 theme = 'ananke'
 canonifyURLs = true
 DefaultContentLanguage = 'cs'
 SectionPagesMenu = 'main'
-Paginate = 9
-
+Paginate = 13
+summaryLength = 20
 [languages]
   [languages.cs]
-    title = 'Červený notes'
+    title = 'Červený notes - L'
     weight = 1
     contentDir = "content/cs"
   [languages.en]

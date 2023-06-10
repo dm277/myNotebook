@@ -1,5 +1,5 @@
 ---
-title: "< 📷 >"
+title: "📷 "
 featured_image: '/images/about.jpg'
 ---
 
@@ -8,5 +8,3 @@ featured_image: '/images/about.jpg'
 `d277@pm.me`
 
 it's me, kevin
-
-
